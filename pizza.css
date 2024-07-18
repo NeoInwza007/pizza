@@ -1,0 +1,16 @@
+header {
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
+}
+.bg {
+    background-color: silver;
+}
+p {
+    font-weight: bold;
+    color: red;
+}
+h1 {
+    font-weight: bold;
+    font-size: large;
+}
